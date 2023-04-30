@@ -52,7 +52,7 @@ details[open] > summary ~ * {
     transform: translate3d(0, 0, 0);
   }
 }
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .textbox {
     margin: 0px;
   }
